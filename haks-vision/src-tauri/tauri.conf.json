@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "identifier": "com.kamik.haks-vision",
   "build": {
-    "beforeDevCommand": "cd ../frontend && bun run dev",
+    "beforeDevCommand": "frontend\\dev.bat",
     "devUrl": "http://localhost:1422",
-    "beforeBuildCommand": "cd ../frontend && bun install --frozen-lockfile && bun run build",
+    "beforeBuildCommand": "frontend\\build.bat",
     "frontendDist": "../frontend/dist"
   },
   "app": {
