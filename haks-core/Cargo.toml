@@ -1,0 +1,16 @@
+[package]
+name = "haks-core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.13.1", default-features = false, features = ["rustls", "json", "multipart", "stream"] }
+futures-util = "0.3"
+base64 = "0.22"
+uuid = { version = "1", features = ["v4"] }
+regex = "1"
+axum = { version = "0.8", features = ["json"] }
+notify = "6"

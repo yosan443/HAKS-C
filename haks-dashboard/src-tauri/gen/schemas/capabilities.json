@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Capability for the main window","local":true,"windows":["dashboard"],"permissions":["core:default","opener:default","store:default","positioner:default","fs:default","dialog:default","dialog:allow-open","shell:allow-open","process:default"]}}
