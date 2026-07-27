@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+  __rustc_proc_macro_decls_cf022ef8c884f35d__ DATA
+  rust_metadata_thiserror_impl_cf022ef8c884f35d DATA

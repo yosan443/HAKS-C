@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "haks-core",
+    "haks-dashboard/src-tauri",
+    "haks-chat/src-tauri",
+    "haks-vision/src-tauri",
+    "haks-voice/src-tauri",
+]

@@ -1,0 +1,14 @@
+C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\deps\unic_char_property-a1686be52d488a05.d: C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\lib.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\pkg_info.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\property.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\range_types.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\macros.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\tables.rs
+
+C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\deps\libunic_char_property-a1686be52d488a05.rmeta: C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\lib.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\pkg_info.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\property.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\range_types.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\macros.rs C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\tables.rs
+
+C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\lib.rs:
+C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\pkg_info.rs:
+C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\property.rs:
+C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\range_types.rs:
+C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\macros.rs:
+C:\Users\kamik\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\unic-char-property-0.9.0\src\tables.rs:
+
+# env-dep:CARGO_PKG_DESCRIPTION=UNIC — Unicode Character Tools — Character Property taxonomy, contracts and build macros
+# env-dep:CARGO_PKG_NAME=unic-char-property
+# env-dep:CARGO_PKG_VERSION=0.9.0

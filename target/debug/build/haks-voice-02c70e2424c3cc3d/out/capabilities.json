@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Capability for the main window","local":true,"windows":["voice"],"permissions":["core:default","opener:default","fs:default","shell:allow-open"]}}

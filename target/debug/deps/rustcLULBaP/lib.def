@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+  __rustc_proc_macro_decls_758564d59e69efb7__ DATA
+  rust_metadata_tracing_attributes_758564d59e69efb7 DATA

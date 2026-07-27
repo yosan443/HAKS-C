@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+  __rustc_proc_macro_decls_e79ca5d490320e24__ DATA
+  rust_metadata_zerofrom_derive_e79ca5d490320e24 DATA

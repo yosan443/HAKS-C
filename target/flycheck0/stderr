@@ -1,0 +1,258 @@
+   2.453093500s  INFO prepare_target{force=false package_id=haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri) target="haks_chat_lib"}: cargo::core::compiler::fingerprint: fingerprint error for haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri)/Check { test: true }/TargetInner { ..: lib_target("haks_chat_lib", ["staticlib", "cdylib", "rlib"], "C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-chat\\src-tauri\\src\\lib.rs", Edition2021) }
+   2.453298600s  INFO prepare_target{force=false package_id=haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri) target="haks_chat_lib"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-chat-c97590d922c93b90\test-lib-haks_chat_lib`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.483829600s  INFO prepare_target{force=false package_id=haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri) target="haks-chat"}: cargo::core::compiler::fingerprint: fingerprint error for haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri)/Check { test: true }/TargetInner { name: "haks-chat", doc: true, ..: with_path("C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-chat\\src-tauri\\src\\main.rs", Edition2021) }
+   2.483890000s  INFO prepare_target{force=false package_id=haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri) target="haks-chat"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-chat-7ac53e9f14412f76\test-bin-haks-chat`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.487950900s  INFO prepare_target{force=false package_id=haks-core v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-core) target="haks_core"}: cargo::core::compiler::fingerprint: fingerprint error for haks-core v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-core)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("haks_core", ["lib"], "C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-core\\src\\lib.rs", Edition2021) }
+   2.488008700s  INFO prepare_target{force=false package_id=haks-core v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-core) target="haks_core"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-core-6ef01f2740781ee7\test-lib-haks_core`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.528393500s  INFO prepare_target{force=false package_id=haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri) target="haks_dashboard_lib"}: cargo::core::compiler::fingerprint: fingerprint error for haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri)/Check { test: true }/TargetInner { ..: lib_target("haks_dashboard_lib", ["staticlib", "cdylib", "rlib"], "C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-dashboard\\src-tauri\\src\\lib.rs", Edition2021) }
+   2.528450700s  INFO prepare_target{force=false package_id=haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri) target="haks_dashboard_lib"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-dashboard-556d23a638ca8f83\test-lib-haks_dashboard_lib`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.534092900s  INFO prepare_target{force=false package_id=haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri) target="haks-dashboard"}: cargo::core::compiler::fingerprint: fingerprint error for haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri)/Check { test: true }/TargetInner { name: "haks-dashboard", doc: true, ..: with_path("C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-dashboard\\src-tauri\\src\\main.rs", Edition2021) }
+   2.534147900s  INFO prepare_target{force=false package_id=haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri) target="haks-dashboard"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-dashboard-1c66207465fe6dc0\test-bin-haks-dashboard`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.543035000s  INFO prepare_target{force=false package_id=haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri) target="haks_vision_lib"}: cargo::core::compiler::fingerprint: fingerprint error for haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri)/Check { test: true }/TargetInner { ..: lib_target("haks_vision_lib", ["staticlib", "cdylib", "rlib"], "C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-vision\\src-tauri\\src\\lib.rs", Edition2021) }
+   2.543094100s  INFO prepare_target{force=false package_id=haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri) target="haks_vision_lib"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-vision-4c56e166ab303092\test-lib-haks_vision_lib`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.547271000s  INFO prepare_target{force=false package_id=haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri) target="haks-vision"}: cargo::core::compiler::fingerprint: fingerprint error for haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri)/Check { test: true }/TargetInner { name: "haks-vision", doc: true, ..: with_path("C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-vision\\src-tauri\\src\\main.rs", Edition2021) }
+   2.547320500s  INFO prepare_target{force=false package_id=haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri) target="haks-vision"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-vision-08fbc474397d634a\test-bin-haks-vision`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.558032500s  INFO prepare_target{force=false package_id=haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri) target="haks_voice_lib"}: cargo::core::compiler::fingerprint: fingerprint error for haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri)/Check { test: true }/TargetInner { ..: lib_target("haks_voice_lib", ["staticlib", "cdylib", "rlib"], "C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-voice\\src-tauri\\src\\lib.rs", Edition2021) }
+   2.558095200s  INFO prepare_target{force=false package_id=haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri) target="haks_voice_lib"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-voice-098f27ae522f7425\test-lib-haks_voice_lib`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.564322400s  INFO prepare_target{force=false package_id=haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri) target="haks-voice"}: cargo::core::compiler::fingerprint: fingerprint error for haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri)/Check { test: true }/TargetInner { name: "haks-voice", doc: true, ..: with_path("C:\\Users\\kamik\\OneDrive - Tokyo University of Agriculture and Technology\\projects\\HAKS\\haks-voice\\src-tauri\\src\\main.rs", Edition2021) }
+   2.564371700s  INFO prepare_target{force=false package_id=haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri) target="haks-voice"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\target\debug\.fingerprint\haks-voice-532ba28e16583355\test-bin-haks-voice`
+
+Caused by:
+    指定されたファイルが見つかりません。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking haks-core v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-core)
+    Checking haks-chat v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-chat\src-tauri)
+    Checking haks-vision v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-vision\src-tauri)
+    Checking haks-voice v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-voice\src-tauri)
+    Checking haks-dashboard v0.1.0 (C:\Users\kamik\OneDrive - Tokyo University of Agriculture and Technology\projects\HAKS\haks-dashboard\src-tauri)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 9.29s

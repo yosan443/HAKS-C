@@ -1,0 +1,19 @@
+# Auto-generated lock files - never convert line endings
+Cargo.lock binary
+bun.lock binary
+
+# Rust
+*.rs text eol=lf
+
+# Web
+*.ts text eol=lf
+*.js text eol=lf
+*.svelte text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
+# Images / binaries
+*.png binary
+*.ico binary
+*.icns binary
